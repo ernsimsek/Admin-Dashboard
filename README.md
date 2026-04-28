@@ -203,3 +203,5 @@ Quick explanation:
 
 ---
 
+<img width="1919" height="1079" alt="Ekran görüntüsü 2026-04-28 162913" src="https://github.com/user-attachments/assets/11f9dc2e-1ba3-4811-8c1d-caed4fa824a6" />
+
